@@ -39,10 +39,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <!-- <a class="navbar-brand" href="#"> -->
-                    <a class="navbar-brand topnav" href="index.html">KB Software Solutions</a>
-                    <!-- <img src="img/kb-logo-v3-70x60.png" alt="KB Software Solutions Logo"> -->
-              <!--  </a> -->
+                <a class="navbar-brand kb-logo" href="#"> 
+                     <img src="img/kb-logo-wide-400x80.png" alt="KB Software Solutions Logo"> 
+                </a> 
+                <a class="navbar-brand topnav kb-text" href="index.html">KB Software Solutions</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
