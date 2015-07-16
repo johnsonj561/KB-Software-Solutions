@@ -39,10 +39,62 @@ body {
   font-size: 1.4em;
 }
 
+.dropdown-menu>li>a {
+  padding: 10px 20px;
+  font-weight: 600;
+  color: #252627;
+}
+
+.drop-down-border{
+  margin: 0px;
+}
+
+.paragraph-divider{
+ margin: 30px 0px; 
+}
+
+.glyph-box{
+  border: solid 3px #252627; 
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.glyphicon{
+  background-color: #D3D4D9;
+  color: #252627;
+}
+
 .btn-primary, .btn-default{
   color: #fff;
   background-color: #4B88A2;
   border-color: #D3D4D9;
+}
+
+.quote{
+  display:block;
+  font-weight: 700;
+  font-size: 1.3em;
+  page-break-after: always;
+  page-break-before: always;
+  padding: 10px 15px;
+}
+
+.cite-source{
+  font-style: italic;
+  font-size: .8em;
+  color: black;
+}
+
+.contact-info{
+  border: solid black 2px;
+  border-radius: 10px;
+  padding: 20px 10px;
+  margin-bottom: 50px;
+}
+
+.contact-link{
+  color: black;
 }
 
 .navbar-toggle{
