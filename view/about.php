@@ -5,8 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="KB Software Solutions - Providing small to medium
-                                      sized businesses with affordable web designs and maintenance.">
+    <meta name="description" content="KB Software Solutions - Providing small businesses with custom web designs for affordable costs.">
     <meta name="author" content="KB Software Solutions">
     <meta name="ROBOTS" content="INDEX, FOLLOW">
     <link rel="icon" type="image/x-icon" href="../img/kb-favicon.png" />
@@ -27,7 +26,7 @@
             <div class="col-lg-6">
               <p>KB Software Solutions is independently owned and operated by Justin Johnson in Boynton Beach Florida. As a Computer
                 Engineering and Computer Science student at Florida Atlantic University, KB Software Solutions released it's first 
-                commercial website in December of 2014. Sharp Cut Lawn Service in New Jersey <a href="www.sharpcutlawns.com">went online</a>
+                commercial website in December of 2014. Sharp Cut Lawn Service in New Jersey <a href="http://www.sharpcutlawns.com">went online</a>
                 when Justin Johnson presented the design to his father, owner of Sharp Cut Lawn Service, as a Christmas present.</p>
               <p>KB Software Solution's first commercial web design not only made for a great surpirse Christmas present, but
                 generated more inquiries and new business than ever anticipated. With the help of it's new
@@ -38,7 +37,7 @@
               <img class="img-responsive img-rounded wrap-image" src="../img/web-design-home-page-2.jpg" 
                    alt="Web Design Sharp Cut Lawn Service Home Page">
               <p class="text-center"><em>Screenshot taken from first commercial web design - 
-                <a href="www.sharpcutlawns.com">Sharp Cut Lawn Service</a></em></p>
+                <a href="http://www.sharpcutlawns.com">Sharp Cut Lawn Service</a></em></p>
             </div>
 
           </div>

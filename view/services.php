@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="KB Software Solutions - View available services to see if how we can help get
+    <meta name="description" content="KB Software Solutions - View available services to see how we can help get
                                       your business online and attracting new customers">
     <meta name="author" content="KB Software Solutions">
     <meta name="ROBOTS" content="INDEX, FOLLOW">
