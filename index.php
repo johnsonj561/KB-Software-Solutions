@@ -4,12 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="KB Software Solutions - Providing small to medium
-                                      sized businesses with affordable web designs and maintenance.">
+    <meta name="description" content="KB Software Solutions - Providing small businesses with custom web designs for affordable costs.">
     <meta name="author" content="KB Software Solutions">
     <meta name="ROBOTS" content="INDEX, FOLLOW">
     <link rel="icon" type="image/x-icon" href="img/kb-favicon.png" />
-    <title>KB Software Solutions | West Palm Beach</title>
+    <title>KB Software Solutions | Palm Beach County</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/small-business.css" rel="stylesheet">
     <?php require_once('template/social-media-like-plugin.html'); ?>
@@ -246,8 +245,8 @@
             <div class="col-lg-6">
 
               <p class="copyright text-muted medium pull-right">
-                <img href="www.kbsoftwaresolutions.com" src="img/kb-logo-v3-75x60.png" alt="KB Software Solutions Logo">
-                <a href="www.kbsoftwaresolutions.com">Website Development by KB Software Solutions</a>
+                <img src="img/kb-logo-v3-75x60.png" alt="KB Software Solutions Logo"/>
+                <a href="http://www.kbsoftwaresolutions.com">Website Development by KB Software Solutions</a>
               </p>
             </div>
           </div>
