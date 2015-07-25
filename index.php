@@ -12,6 +12,8 @@
     <title>KB Software Solutions | West Palm Beach</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/small-business.css" rel="stylesheet">
+    <?php require_once('template/social-media-like-plugin.html'); ?>
+
   </head>
 
   <body>
@@ -60,9 +62,82 @@
     </nav>
     <div class="container" name="top">
       <div class="row">
-        <div class="col-md-7">
-          <img class="img-responsive img-rounded wrap-image" src="img/internet-logo-design.jpg" alt="Web development and design">
+        <div class="col-lg-7 text-center">
+          <div id="carousel-text" class="carousel slide carousel-text">
+            <div class="carousel-inner">
+              <div class="item active">
+                <h2>CUSTOM WEBSITES - AFFORDABLE PRICES</h2>
+              </div>
+              <div class="item">
+                <h2>PERSONALIZED TO YOUR BUSINESS</h2>
+              </div>
+              <div class="item">
+                <h2>IMPROVE SEO SCORES</h2>
+              </div>
+              <div class="item">
+                <h2>ATTRACT NEW CUSTOMERS</h2>
+              </div>
+              <div class="item">
+                <h2>IMPROVE USER EXPERIENCE</h2>
+              </div>
+              <div class="item">
+                <a href="view/contact.php" id="clicktocall" name="clicktocall">
+                  <h2>CLICK TO CALL NOW!</h2></a>
+              </div>
+            </div>
+          </div>
+          <div id="carousel-example-generic" class="carousel slide">
+            <!-- Indicators -->
+            <ol class="carousel-indicators hidden-xs">
+              <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+              <div class="item active">
+                <img class="img-responsive img-full" src="img/arch-home-page-900x500.jpg" 
+                     alt="Custom Web Design Home Page">
+              </div>
+              <div class="item">
+                <img class="img-responsive img-full" src="img/sharpcut-home-page-900x500.jpg" 
+                     alt="Custom Web Design Home Page">
+              </div>
+              <div class="item">
+                <img class="img-responsive img-full" src="img/customer-login-page-900x500.jpg" 
+                     alt="Customer Login Page with Database Management Features">
+
+              </div>
+              <div class="item">
+                <img class="img-responsive img-full" src="img/arch-meeting-contacts-900x500.jpg" 
+                     alt="Provide customers with business information">
+              </div>
+              <div class="item">
+                <img class="img-responsive img-full" src="img/arch-contact-page-900x500.jpg" 
+                     alt="Add forms to communicate with customers and ">
+              </div>
+              <div class="item">
+                <a href="view/contact.php"><img class="img-responsive img-full" src="img/kb-logo-v3-500h.jpg" 
+                                                alt="Contact for website estimates"></a>
+              </div>
+            </div>
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+              <span class="icon-prev"></span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+              <span class="icon-next"></span>
+            </a>
+          </div>
         </div>
+
+
+        <!--   <div class="col-md-7">
+<img class="img-responsive img-rounded wrap-image" src="img/internet-logo-design.jpg" alt="Web development and design">
+</div>   -->
         <div class="col-md-5">
           <h1>Small Business Web Design</h1>
           <p>KB Software Solutions delivers custom web designs to local businesses for affordable
@@ -143,6 +218,9 @@
     </row>
     <footer>
       <div class="container">
+        <div class="row social-media-like-buttons pull-left">
+          <?php require_once('template/social-media-like-view.html'); ?>
+        </div>
         <div class="row">
           <div class="col-lg-12">
             <div class="col-lg-6">
@@ -181,6 +259,26 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/slide-toggle-nav.js"></script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55aed0f95bca4219" async="async"></script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55aed0f95bca4219" async="async"> 
+    </script>
+    <script>
+      $('.carousel').carousel({
+        interval: 5000 //changes the speed
+      })
+    </script>
+    <script>
+      if(isMobile().iOS() || isMobile.Android()){
+        $('a#clicktocall').attr('href', 'tel:+15619097795');
+      }
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-65613519-1', 'auto');
+      ga('send', 'pageview');
+    </script>
   </body>
 </html>
