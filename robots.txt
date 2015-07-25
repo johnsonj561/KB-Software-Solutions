@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /template/
+Disallow: /view/contact.php
+Disallow: /functions/
+Disallow: /landing/
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
