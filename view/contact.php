@@ -24,7 +24,14 @@
               <div class="col-lg-12">
                 <br>
                 <h2 class="intro-text text-center">Contact KB Software Solutions to Discuss Design Ideas and Pricing</h2>
-                <hr>
+                <hr class="paragraph-divier">
+                <div class="col-lg-7">
+                  <p><em>If requesting pricing information or an estimate to design a new website, please 
+                    provide a brief description of your business and your goals in launching a web page. If you already have
+                    an existing website describing your business, please include that information. KB Software Solutions
+                    will send you several options to match your requirements as well as any suggestions.</em></p>
+                </div>
+                <div class="col-lg-5"></div>
                 <div class="col-lg-9">
                   <form role="form" action="../landing/message-landing.php" method = "post"
                         onsubmit = "return onContactSubmit()">
