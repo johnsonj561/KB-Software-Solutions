@@ -3,14 +3,14 @@ $name = strip_tags($_POST['name']);
 $email = strip_tags($_POST['email']);
 $phoneNumber = strip_tags($_POST['phoneNumber']);
 $message = strip_tags($_POST['message']);
-$headers = "From: www.sharpcutlawns.com\r\n";
+$headers = "From: www.kbsoftwaresolutions.comf\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
 $emailMessage = 
   "<table class='form-email-message'>
       <tr>
-        <td>New Sharp Cut Message</td>
+        <td>KB Software Solutions</td>
       </tr>
       <tr>
         <td>$message</td>
