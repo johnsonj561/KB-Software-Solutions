@@ -208,11 +208,11 @@
     </div>
     <row class="text-center social-media mobile-only">
       <ul class="share-buttons">
-        <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.kbsoftwaresolutions.com&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="img/Facebook.png"></a></li>
-        <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fwww.kbsoftwaresolutions.com&text=:%20http%3A%2F%2Fwww.kbsoftwaresolutions.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="img/Twitter.png"></a></li>
-        <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.kbsoftwaresolutions.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="img/Google+.png"></a></li>
-        <li><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.kbsoftwaresolutions.com&description=" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><img src="img/Pinterest.png"></a></li>
-        <li><a href="mailto:?subject=&body=:%20http%3A%2F%2Fwww.kbsoftwaresolutions.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img src="img/Email.png"></a></li>
+        <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.kbsoftwaresolutions.com&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="img/Facebook.png" alt="facebook-logo"></a></li>
+        <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fwww.kbsoftwaresolutions.com&text=:%20http%3A%2F%2Fwww.kbsoftwaresolutions.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="img/Twitter.png" alt="twitter-logo"></a></li>
+        <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.kbsoftwaresolutions.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="img/Google+.png" alt="google-logo"></a></li>
+        <li><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.kbsoftwaresolutions.com&description=" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><img src="img/Pinterest.png" alt="pinterest-logo"></a></li>
+        <li><a href="mailto:?subject=&body=:%20http%3A%2F%2Fwww.kbsoftwaresolutions.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img src="img/Email.png" alt="email-logo"></a></li>
       </ul>
     </row>
     <footer>
@@ -264,11 +264,6 @@
       $('.carousel').carousel({
         interval: 5000 //changes the speed
       })
-    </script>
-    <script>
-      if(isMobile().iOS() || isMobile.Android()){
-        $('a#clicktocall').attr('href', 'tel:+15619097795');
-      }
     </script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
