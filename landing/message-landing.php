@@ -39,7 +39,7 @@ $result = mail("jjohnson@ambrosiatc.com", "KB Software Solutions", $emailMessage
     <meta name="description" content="KB Software Solutions - Providing small to medium
                                       sized businesses with affordable web designs and maintenance.">
     <meta name="author" content="KB Software Solutions">
-    <meta name="ROBOTS" content="INDEX, FOLLOW">
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     <link rel="icon" type="image/x-icon" href="../img/kb-favicon.png" />
     <title>KB Software Solutions | About</title>
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -96,8 +96,8 @@ $result = mail("jjohnson@ambrosiatc.com", "KB Software Solutions", $emailMessage
             </div>
             <div class="col-lg-6">
               <p class="copyright text-muted medium pull-right">
-                <img href="www.kbsoftwaresolutions.com" src="../img/kb-logo-v3-75x60.png" alt="KB Software Solutions Logo">
-                <a href="www.kbsoftwaresolutions.com">Website Development by KB Software Solutions</a>
+                <img src="../img/kb-logo-v3-75x60.png" alt="KB Software Solutions Logo">
+                <a href="http://www.kbsoftwaresolutions.com">Website Development by KB Software Solutions</a>
               </p>
             </div>
           </div>
