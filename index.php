@@ -9,8 +9,7 @@
     <meta name="ROBOTS" content="INDEX, FOLLOW">
     <link rel="icon" type="image/x-icon" href="img/kb-favicon.png" />
     <title>KB Software Solutions | Palm Beach County</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/small-business.css" rel="stylesheet">
+    <link href="css/kb-css.min.css" rel="stylesheet">
     <?php require_once('template/social-media-like-plugin.html'); ?>
 
   </head>
@@ -270,7 +269,6 @@
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                               })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
       ga('create', 'UA-65613519-1', 'auto');
       ga('send', 'pageview');
     </script>
