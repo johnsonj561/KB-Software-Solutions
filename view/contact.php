@@ -10,8 +10,7 @@
     <meta name="ROBOTS" content="INDEX, FOLLOW">
     <link rel="icon" type="image/x-icon" href="../img/kb-favicon.png" />
     <title>KB Software Solutions | Contact</title>
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link href="../css/small-business.css" rel="stylesheet">
+    <link href="../css/kb-css.min.css" rel="stylesheet">
   </head>
   <body>
     <?php require_once('../template/navbar.html'); ?>
@@ -103,7 +102,7 @@
         </div>
         <div class="row"><a href="contact.php">Back to Top</a><br></div>
       </div>
-      <script src = "../js/validate.js"></script>
+	  <script src = "../js/validate.js"></script>
       <?php require_once('../template/social-media.html');?>
       <?php require_once('../template/footer.html'); ?>
       </body>
