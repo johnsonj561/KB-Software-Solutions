@@ -10,7 +10,8 @@
     <meta name="ROBOTS" content="INDEX, FOLLOW">
     <link rel="icon" type="image/x-icon" href="../img/kb-favicon.png" />
     <title>KB Software Solutions | About</title>
-    <link href="../css/kb-css.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/kb-css.css" rel="stylesheet">
   </head>
 
   <body>

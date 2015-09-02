@@ -10,7 +10,8 @@
     <meta name="ROBOTS" content="INDEX, FOLLOW">
     <link rel="icon" type="image/x-icon" href="../img/kb-favicon.png" />
     <title>KB Software Solutions | Contact</title>
-    <link href="../css/kb-css.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/kb-css.css" rel="stylesheet">
   </head>
   <body>
     <?php require_once('../template/navbar.html'); ?>
@@ -24,7 +25,7 @@
                 <br>
                 <h2 class="intro-text text-center">Contact KB Software Solutions to Discuss Design Ideas and Pricing</h2>
                 <hr class="paragraph-divier">
-                <div class="col-lg-7">
+                <div class="col-lg-12">
                   <p><em>If requesting pricing information or an estimate to design a new website, please 
                     provide a brief description of your business and your goals in launching a web page. If you already have
                     an existing website describing your business, please include that information. KB Software Solutions
@@ -73,7 +74,9 @@
                       <strong><a href="mailto:name@example.com" class="contact-link">johnsonj561@gmail.com</a></strong>
                     </p>
                     <p>Location:
-                      <strong>Boynton Beach, FL 33435</strong>
+                      <strong>Boynton Beach</strong>
+                    </p>
+                    <p class="contact-line-2"><strong>Florida 33435</strong>
                     </p>
                   </div>
                 </div>
