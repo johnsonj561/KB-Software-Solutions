@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="KB Software Solutions - Providing small businesses with custom web designs for affordable costs.">
+    <meta name="description" content="KB Software Solutions - View our portfolio of completed projects">
     <meta name="author" content="KB Software Solutions">
     <meta name="ROBOTS" content="INDEX, FOLLOW">
     <link rel="icon" type="image/x-icon" href="../img/kb-favicon.png" />
-    <title>KB Software Solutions | About</title>
+    <title>KB Software Solutions | Portfolio</title>
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/kb-css.css" rel="stylesheet">
   </head>
