@@ -32,6 +32,9 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li>
+              <a href="view/portfolio.php">Portfolio</a>
+            </li>
+            <li>
               <a href="view/about.php">About</a>
             </li>
             <li class="mobile-only">
@@ -78,10 +81,14 @@
               <div class="item">
                 <h2>IMPROVE USER EXPERIENCE</h2>
               </div>
-              <div class="item">
-                <a href="view/contact.php" id="clicktocall" name="clicktocall">
-                  <h2>CLICK TO CALL NOW!</h2></a>
+              <div class="item pc-only">
+                <a href="view/contact.php" id="clicktocontact">
+                  <h2 class="pc-only">CLICK TO CONTACT NOW</h2></a>
               </div>
+          <!--    <div class="item mobile-only">
+                <a href="view/contact.php" id="clicktocall">
+                  <h2 class="mobile-only">CLICK TO CALL NOW</h2></a>
+              </div> -->
             </div>
           </div>
           <div id="carousel-example-generic" class="carousel slide">
@@ -97,7 +104,7 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
               <div class="item active">
-                <img class="img-responsive img-full" src="img/arch-home-page-900x500.jpg" 
+                <img class="img-responsive img-full" src="img/cntauto-homescreen.jpg" 
                      alt="Custom Web Design Home Page">
               </div>
               <div class="item">
@@ -105,7 +112,7 @@
                      alt="Custom Web Design Home Page">
               </div>
               <div class="item">
-                <img class="img-responsive img-full" src="img/customer-login-page-900x500.jpg" 
+                <img class="img-responsive img-full" src="img/arch-home-page-900x500.jpg" 
                      alt="Customer Login Page with Database Management Features">
 
               </div>
@@ -114,7 +121,7 @@
                      alt="Provide customers with business information">
               </div>
               <div class="item">
-                <img class="img-responsive img-full" src="img/arch-contact-page-900x500.jpg" 
+                <img class="img-responsive img-full" src="img/customer-login-page-900x500.jpg" 
                      alt="Add forms to communicate with customers and ">
               </div>
               <div class="item">
@@ -131,11 +138,6 @@
             </a>
           </div>
         </div>
-
-
-        <!--   <div class="col-md-7">
-<img class="img-responsive img-rounded wrap-image" src="img/internet-logo-design.jpg" alt="Web development and design">
-</div>   -->
         <div class="col-md-5">
           <h1>Small Business Web Design</h1>
           <p>KB Software Solutions delivers custom web designs to local businesses for affordable
@@ -225,6 +227,10 @@
               <ul class="list-inline">
                 <li>
                   <a href="#top">Home</a>
+                </li>
+                <li class="footer-menu-divider">&sdot;</li>
+                <li>
+                  <a href="view/portfolio.php">Portfolio</a>
                 </li>
                 <li class="footer-menu-divider">&sdot;</li>
                 <li>
