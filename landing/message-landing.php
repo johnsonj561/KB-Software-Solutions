@@ -3,7 +3,7 @@ $name = strip_tags($_POST['name']);
 $email = strip_tags($_POST['email']);
 $phoneNumber = strip_tags($_POST['phoneNumber']);
 $message = strip_tags($_POST['message']);
-$headers = "From: www.kbsoftwaresolutions.comf\r\n";
+$headers = "From: www.kbsoftwaresolutions.com\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
@@ -36,12 +36,11 @@ $result = mail("jjohnson@ambrosiatc.com", "KB Software Solutions", $emailMessage
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="KB Software Solutions - Providing small to medium
-                                      sized businesses with affordable web designs and maintenance.">
+    <meta name="description" content="KB Software Solutions - Thank you for your message, we appreciate your business.">
     <meta name="author" content="KB Software Solutions">
     <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     <link rel="icon" type="image/x-icon" href="../img/kb-favicon.png" />
-    <title>KB Software Solutions | About</title>
+    <title>KB Software Solutions | Message Received</title>
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/small-business.css" rel="stylesheet">
   </head>
@@ -49,7 +48,6 @@ $result = mail("jjohnson@ambrosiatc.com", "KB Software Solutions", $emailMessage
   <body>
     <?php require_once('../template/navbar.html'); ?>
     <a  name="services"></a>
-    <div class="content-section-a">
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-sm-6">
@@ -64,9 +62,8 @@ $result = mail("jjohnson@ambrosiatc.com", "KB Software Solutions", $emailMessage
             <img class="img-responsive" src="../img/mail-received.png" alt="">
           </div>
         </div>
-        <hr class="paragraph-divier">
+        <hr class="paragraph-divider">
       </div>
-    </div>
 
     <!-- Footer -->
     <footer>
