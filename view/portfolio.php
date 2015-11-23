@@ -33,7 +33,7 @@
         <div class="col-md-5">
           <h3>The Lilly Pad, West Palm Beach</h3>
           <ul>
-            <li>Full screen, high resolution slideshow that grabs the attention of new visitors</li>
+            <li>Full screen, high resolution slideshow to capture visitors</li>
             <li>Professional photos provided by <a href="http://www.shutterstock.com/index-in.mhtml">Shutterstock</a></li>
             <li>In depth 60 question Housing Application collects user data and emails to management for review</li>
             <ul><li>Alternative version offerred for printing</li></ul>
