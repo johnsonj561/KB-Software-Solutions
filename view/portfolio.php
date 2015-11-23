@@ -25,7 +25,58 @@
       </div>
       <div class="row">
         <div class="col-md-7">
-          <a href="#">
+          <a href="http://www.thelillypadpb.com" >
+            <img class="img-responsive wrap-image" src="../img/700x300/lilly-pad-cover-700x325.jpg" 
+                 alt="The Lilly Pad Home Page Website Design">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>The Lilly Pad, West Palm Beach</h3>
+          <ul>
+            <li>Full screen, high resolution slideshow that grabs the attention of new visitors</li>
+            <li>Professional photos provided by <a href="http://www.shutterstock.com/index-in.mhtml">Shutterstock</a></li>
+            <li>In depth 60 question Housing Application collects user data and emails to management for review</li>
+            <ul><li>Alternative version offerred for printing</li></ul>
+            <li>Visitors take a virtual tour of the Lilly Pad with interactive photo galleries for all current properties</li>
+            <li>Links to Lilly Bad Cashbox to accept payments and provide billing information to clients and their familiies</li>
+          </ul>
+          <a class="btn btn-primary" href="http://www.thelillypadpb.com" target="_blank">Visit Website</a>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-7">
+          <a href="http://lamp.cse.fau.edu/~jjohn273/meals-on-wheels/">
+            <img class="img-responsive wrap-image" src="../img/700x300/meals-on-wheels-cover-700x325.jpg" 
+                 alt="Meals On Wheels Routing Services">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Meals On Wheels Routing Services</h3>
+          <ul>
+            <li>Providing both User and Administrative services to Meals on Wheels Delivery Providers</li>
+            <li>Account management controls allow for new registrations, account updates, and lost password retrieval</li>
+            <li>Volunteer Functionality</li>
+              <ul>
+                <li>Select from client database to build and schedule a route</li>
+                <li>Launch Google Maps at delivery time - Google API provides fastest route available</li>
+                <li>Report any client concerns to administrative staff</li>
+              </ul>
+            <li>Administrative Functionality</li>
+              <ul>
+                <li>Add/Remove clients from database</li>
+                <li>View/Edit volunteer's schedules, re-assign clients as needed</li>
+                <li>Review concerns that were reported by volunteers</li>
+                <li>Check that all scheduled volunteers have checked in for today's deliveries</li>
+              </ul>
+          </ul>
+          <a class="btn btn-primary" href="http://lamp.cse.fau.edu/~jjohn273/meals-on-wheels/" target="_blank">Visit Website</a>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-7">
+          <a href="http://www.sharpcutlawns.com">
             <img class="img-responsive wrap-image" src="../img/700x300/sharpcutlawns-homepage-700x325.jpg" alt="Sharpcut Lawn Service Home Page">
           </a>
         </div>
@@ -44,7 +95,7 @@
       <hr>
       <div class="row">
         <div class="col-md-7">
-          <a href="#">
+          <a href="http://www.cntautocare.com">
             <img class="img-responsive wrap-image" src="../img/700x300/cntautocare-homepage-700x325.jpg" alt="C&T Auto Care Home Page">
           </a>
         </div>
@@ -62,7 +113,7 @@
       <hr>
       <div class="row">
         <div class="col-md-7">
-          <a href="#">
+          <a href="http://www.archrecoveryhouses.com">
             <img class="img-responsive wrap-image" src="../img/700x300/archrecovery-homepage-700x325.jpg" alt="ARCH Florida Recovery Houses">
           </a>
         </div>
@@ -71,7 +122,7 @@
           <ul>
             <li>Aesthetic design with large background image to capture the attention of potential customers</li>
             <li>Professional images purchased from <a href="http://www.shutterstock.com" target="_blank">Shutterstock</a> enhance
-            overall design and appearance of website</li>
+              overall design and appearance of website</li>
             <li>Photo gallery with an interactive slide-show to effectively advertise properties and primary features</li>
             <li>Social media marketing links website to Facebook, Twitter, and Google</li>
             <li>Additional pages educate customers, encourage website interaction, and increase SEO scores with quality content</li>
@@ -83,34 +134,34 @@
       <hr>
 
       <!-- Pagination 
-      <div class="row text-center">
-        <div class="col-lg-12">
-          <ul class="pagination">
-            <li>
-              <a href="#">&laquo;</a>
-            </li>
-            <li class="active">
-              <a href="#">1</a>
-            </li>
-            <li>
-              <a href="#">2</a>
-            </li>
-            <li>
-              <a href="#">3</a>
-            </li>
-            <li>
-              <a href="#">4</a>
-            </li>
-            <li>
-              <a href="#">5</a>
-            </li>
-            <li>
-              <a href="#">&raquo;</a>
-            </li>
-          </ul>
-        </div>
-      </div>  -->
-      
+<div class="row text-center">
+<div class="col-lg-12">
+<ul class="pagination">
+<li>
+<a href="#">&laquo;</a>
+</li>
+<li class="active">
+<a href="#">1</a>
+</li>
+<li>
+<a href="#">2</a>
+</li>
+<li>
+<a href="#">3</a>
+</li>
+<li>
+<a href="#">4</a>
+</li>
+<li>
+<a href="#">5</a>
+</li>
+<li>
+<a href="#">&raquo;</a>
+</li>
+</ul>
+</div>
+</div>  -->
+
       <div class="row"><a href="#top">Back to Top</a><br></div>
     </div> 
     <?php require_once('../template/social-media.html');?>
