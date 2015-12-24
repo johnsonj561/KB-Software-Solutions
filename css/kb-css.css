@@ -42,18 +42,21 @@ footer {
   padding: 30px 0;
   margin-top: 50px
 }
+p, h1, h2, h3, h4, span{
+  color: #525557;
+}
 
 
 /***** NAVBAR *****/
 .navbar-inverse {
-  background-color: #D3D4D9;
-  border-color: #D3D4D9;
-  border-bottom: 10px solid #4B88A2
+  background-color: #e0e0e0;
+  border-color: #e0e0e0;
+  border-bottom: 10px solid #1873a1
 }
 .navbar-fixed-top .nav {
   padding: 15px 0;
   float: right;
-  color: #252627
+  color: #525557
 }
 .navbar-brand {
   margin-top: 15px;
@@ -61,19 +64,20 @@ footer {
 }
 .navbar-fixed-top .navbar-brand {
   padding: 0 15px;
-  color: #252627
+  color: #525557
 }
 .navbar-inverse .navbar-nav>li>a {
-  color: #252627;
+  color: #525557;
   font-size: 1.4em;
+  font-weight: 700;
 }
 .navbar-toggle {
-  background-color: #4B88A2
+  background-color: #1873a1
 }
 .dropdown-menu>li>a {
   padding: 10px 20px;
   font-weight: 600;
-  color: #252627;
+  color: #1873a1;
 }
 .drop-down-border {
   margin: 0
@@ -91,7 +95,7 @@ footer {
 }
 .glyph-box,
 .wrap-image {
-  border: 3px solid #4B88A2;
+  border: 3px solid #1873a1;
 }
 .glyph-box {
   border-radius: 10px;
@@ -104,8 +108,8 @@ footer {
   background-color: #8D8D8D
 }
 .glyphicon {
-  background-color: #D3D4D9;
-  color: #252627
+  background-color: #e0e0e0;
+  color: #525557
 }
 
 
@@ -113,9 +117,15 @@ footer {
 .btn-default,
 .btn-primary {
   color: #fff;
-  background-color: #4B88A2;
-  border-color: #D3D4D9
+  background-color: #1873a1;
+  border-color: #e0e0e0
 }
+
+
+.btn-primary:hover{
+  background-color: #23a9de;
+}
+
 
 
 /***** CAROUSEL ******/
@@ -134,6 +144,9 @@ footer {
 .item>a {
   text-decoration: none;
   color: #252627
+}
+#carousel-example-generic{
+  margin-top: 20px;
 }
 
 
