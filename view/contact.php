@@ -83,8 +83,6 @@
             </div>
           </div>
           <hr class="paragraph-divider">
-
-
           <div class="row">
             <div class="box">
               <div class="col-lg-12">
@@ -100,12 +98,12 @@
               </div>
             </div>
           </div>
-
         </div>
         <div class="row"><a href="contact.php">Back to Top</a><br></div>
       </div>
-	  <script src = "../js/validate.js"></script>
-      <?php require_once('../template/social-media.html');?>
-      <?php require_once('../template/footer.html'); ?>
-      </body>
-    </html>
+    </div>
+    <script src = "../js/validate.js"></script>
+    <?php require_once('../template/social-media.html');?>
+    <?php require_once('../template/footer.html'); ?>
+  </body>
+</html>

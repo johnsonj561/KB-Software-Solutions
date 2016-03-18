@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +11,6 @@
     <title>KB Software Solutions | Portfolio</title>
     <link href="../css/kb-css.min.css" rel="stylesheet">
   </head>
-
   <body>
     <?php require_once('../template/navbar.html'); ?>
     <div class="container"> 
@@ -40,6 +38,25 @@
             <li>Links to Lilly Bad Cashbox to accept payments and provide billing information to clients and their familiies</li>
           </ul>
           <a class="btn btn-primary" href="http://www.thelillypadpb.com" target="_blank">Visit Website</a>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-7">
+          <a href="http://www.camhealthpro.com" >
+            <img class="img-responsive wrap-image" src="../img/700x300/cam-health-700x325.jpg" 
+                 alt="CAM Health custom website design by KB Software Solutions Palm Beach County">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>CAM Health, Palm Beach</h3>
+          <ul>
+            <li>Visit <a href="http://www.camhealthpro.com">CAM Health</a> to experience custom curtain effect display</li>
+            <li>Professional high resolution photos and modern layout to capture visitors' attention</li>
+            <li>Custom Social Media Marketing that encourages users to share their experience and help increase SEO scores</li>
+            <li>Interactive Google Map that allows customers to browse the local area and contact CAM Health</li>
+          </ul>
+          <a class="btn btn-primary" href="http://www.camhealthpro.com" target="_blank">Visit Website</a>
         </div>
       </div>
       <hr>
@@ -129,39 +146,8 @@
           <a class="btn btn-primary" href="http://www.archrecoveryhouses.com" target="_blank">Visit Website</a>
         </div>
       </div>
-
       <hr>
-
-      <!-- Pagination 
-<div class="row text-center">
-<div class="col-lg-12">
-<ul class="pagination">
-<li>
-<a href="#">&laquo;</a>
-</li>
-<li class="active">
-<a href="#">1</a>
-</li>
-<li>
-<a href="#">2</a>
-</li>
-<li>
-<a href="#">3</a>
-</li>
-<li>
-<a href="#">4</a>
-</li>
-<li>
-<a href="#">5</a>
-</li>
-<li>
-<a href="#">&raquo;</a>
-</li>
-</ul>
-</div>
-</div>  -->
-
-      <div class="row"><a href="#top">Back to Top</a><br></div>
+      <div class="row to-top"><a href="#top">Back to Top</a><br></div>
     </div> 
     <?php require_once('../template/social-media.html');?>
     <?php require_once('../template/footer.html'); ?>

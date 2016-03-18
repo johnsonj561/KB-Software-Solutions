@@ -28,10 +28,8 @@ $emailMessage =
 
 $result = mail("jjohnson@ambrosiatc.com", "KB Software Solutions", $emailMessage, $headers);
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,12 +39,10 @@ $result = mail("jjohnson@ambrosiatc.com", "KB Software Solutions", $emailMessage
     <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     <link rel="icon" type="image/x-icon" href="../img/kb-favicon.png" />
     <title>KB Software Solutions | Message Received</title>
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link href="../css/small-business.css" rel="stylesheet">
+    <link href="../css/kb-css.css" rel="stylesheet">
   </head>
-
   <body>
-    <?php require_once('../template/navbar.html'); ?>
+    <?php require_once('/template/navbar.html'); ?>
     <a  name="services"></a>
       <div class="container">
         <div class="row">
@@ -59,52 +55,11 @@ $result = mail("jjohnson@ambrosiatc.com", "KB Software Solutions", $emailMessage
             <h3 class="text-center"><a href="../index.php">Return to Home Page</a></h3>
           </div>
           <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-            <img class="img-responsive" src="../img/mail-received.png" alt="">
+            <img class="img-responsive" src="../img/mail-received.png" alt="Message Has Been Received">
           </div>
         </div>
         <hr class="paragraph-divider">
       </div>
-
-    <!-- Footer -->
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <?php require_once('../template/social-media.html'); ?>
-            <div class="col-lg-6">
-              <ul class="list-inline">
-                <li>
-                  <a href="../index.php">Home</a>
-                </li>
-                <li class="footer-menu-divider">&sdot;</li>
-                <li>
-                  <a href="about.php">About</a>
-                </li>
-                <li class="footer-menu-divider">&sdot;</li>
-                <li>
-                  <a href="services.php">Services</a>
-                </li>
-                <li class="footer-menu-divider">&sdot;</li>
-                <li>
-                  <a href="contact.php">Contact</a>
-                </li>
-              </ul>
-              <p class="copyright text-muted small">Copyright &copy; KB Software Solutions 2015. All Rights Reserved</p>
-            </div>
-            <div class="col-lg-6">
-              <p class="copyright text-muted medium pull-right">
-                <img src="../img/kb-logo-v3-75x60.png" alt="KB Software Solutions Logo">
-                <a href="http://www.kbsoftwaresolutions.com">Website Development by KB Software Solutions</a>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!-- jQuery -->
-    <script src="../js/jquery.js"></script>
-    <!-- Bootstrap Core JavaScript -->
-    <script src="../js/bootstrap.min.js"></script>
-    <script src="../js/slide-toggle-nav.js"></script>
+      <?php require_once('../template/footer.html');?>
   </body>
 </html>

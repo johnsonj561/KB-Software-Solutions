@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +11,6 @@
     <title>KB Software Solutions | About</title>
     <link href="../css/kb-css.min.css" rel="stylesheet">
   </head>
-
   <body>
     <?php require_once('../template/navbar.html'); ?>
     <a name="top"></a>
@@ -38,7 +36,6 @@
               <p class="text-center"><em>Screenshot taken from first commercial web design - 
                 <a href="http://www.sharpcutlawns.com">Sharp Cut Lawn Service</a></em></p>
             </div>
-
           </div>
         </div>
       </div>

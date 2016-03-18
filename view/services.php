@@ -164,9 +164,8 @@
           </div>
         </div>
       </div>
-
       <hr>
-      <div class="row" name="seo"><a href="#top">Back to Top</a><br></div>
+      <div class="row to-top" name="seo"><a href="#top">Back to Top</a><br></div>
     </div>
     <?php require_once('../template/social-media.html');?>
     <?php require_once('../template/footer.html');?>
