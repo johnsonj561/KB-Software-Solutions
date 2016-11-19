@@ -20,10 +20,52 @@
           </h1>
         </div>
       </div>
+      <!-- Portfolio Item -->
+      <div class="row">
+        <div class="col-md-7">
+          <a href="https://www.findbestdrugrehabs.com" >
+            <img class="img-responsive wrap-image" src="../img/700x325/drug-alcohol-treatment-services-wordpress-700x325.jpg" 
+                 alt="Drug and Alcohol Treatment Services">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Drug &amp; Alcohol Resources</h3>
+          <ul>
+            <li>Designed on Wordpress platform with Avada theme</li>
+            <li>Professional photos provided by <a href="http://www.shutterstock.com/index-in.mhtml">Shutterstock</a></li>
+            <li>Insurance Verification page that securely posts insurance info to administrators for review</li>
+            <li>Live chat plugin enables user - admin communication</li>
+            <ul><li>Provided by <a href="http://www.formilla.com/">Formilla</a></li></ul>
+            <li>SEO Performance: Social Media Integration, Google Analytics, and Facebook Pixels </li>
+          </ul>
+          <a class="btn btn-primary" href="https://www.findbestdrugrehabs.com" target="_blank">Visit Website</a>
+        </div>
+      </div>
+       <!-- Portfolio Item -->
+      <div class="row">
+        <div class="col-md-7">
+          <a href="http://www.thelillypadofsaintaugustine.com" >
+            <img class="img-responsive wrap-image" src="../img/700x325/lilly-pad-of-st-augustine-wordpress-700x325.jpg" 
+                 alt="The Lilly Pad Of St Augustine">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>The Lilly Pad, St Augustine</h3>
+          <ul>
+            <li>Designed on Wordpress platform with Avada theme</li>
+            <li>Images provided by <a href="http://www.shutterstock.com/index-in.mhtml">Shutterstock</a> and optimized to reduce load time</li>
+            <li>In depth 60 question Housing Application to screen prospective patients</li>
+            <li>High Resolution parallax scrolling effects catch visitor's attention</li>
+            <li>Effective social media integration</li>
+          </ul>
+          <a class="btn btn-primary" href="http://www.thelillypadofsaintaugustine.com" target="_blank">Visit Website</a>
+        </div>
+      </div>
+      <!-- Portfolio Item -->
       <div class="row">
         <div class="col-md-7">
           <a href="http://www.thelillypadpb.com" >
-            <img class="img-responsive wrap-image" src="../img/700x300/lilly-pad-cover-700x325.jpg" 
+            <img class="img-responsive wrap-image" src="../img/700x325/lilly-pad-cover-700x325.jpg" 
                  alt="The Lilly Pad Home Page Website Design">
           </a>
         </div>
@@ -40,11 +82,12 @@
           <a class="btn btn-primary" href="http://www.thelillypadpb.com" target="_blank">Visit Website</a>
         </div>
       </div>
+      <!-- Portfolio Item -->
       <hr>
       <div class="row">
         <div class="col-md-7">
           <a href="http://www.camhealthpro.com" >
-            <img class="img-responsive wrap-image" src="../img/700x300/cam-health-700x325.jpg" 
+            <img class="img-responsive wrap-image" src="../img/700x325/cam-health-700x325.jpg" 
                  alt="CAM Health custom website design by KB Software Solutions Palm Beach County">
           </a>
         </div>
@@ -59,11 +102,12 @@
           <a class="btn btn-primary" href="http://www.camhealthpro.com" target="_blank">Visit Website</a>
         </div>
       </div>
+      <!-- Portfolio Item -->
       <hr>
       <div class="row">
         <div class="col-md-7">
           <a href="http://lamp.cse.fau.edu/~jjohn273/meals-on-wheels/">
-            <img class="img-responsive wrap-image" src="../img/700x300/meals-on-wheels-cover-700x325.jpg" 
+            <img class="img-responsive wrap-image" src="../img/700x325/meals-on-wheels-cover-700x325.jpg" 
                  alt="Meals On Wheels Routing Services">
           </a>
         </div>
@@ -86,14 +130,15 @@
                 <li>Check that all scheduled volunteers have checked in for today's deliveries</li>
               </ul>
           </ul>
-          <a class="btn btn-primary" href="http://lamp.cse.fau.edu/~jjohn273/meals-on-wheels/" target="_blank">Visit Website</a>
+          <a class="btn btn-primary" href="http://sharpcutlawns.com/mealsonwheels/" target="_blank">Visit Website</a>
         </div>
       </div>
+      <!-- Portfolio Item -->
       <hr>
       <div class="row">
         <div class="col-md-7">
           <a href="http://www.sharpcutlawns.com">
-            <img class="img-responsive wrap-image" src="../img/700x300/sharpcutlawns-homepage-700x325.jpg" alt="Sharpcut Lawn Service Home Page">
+            <img class="img-responsive wrap-image" src="../img/700x325/sharpcutlawns-homepage-700x325.jpg" alt="Sharpcut Lawn Service Home Page">
           </a>
         </div>
         <div class="col-md-5">
@@ -108,11 +153,12 @@
           <a class="btn btn-primary" href="http://www.sharpcutlawns.com" target="_blank">Visit Website</a>
         </div>
       </div>
+      <!-- Portfolio Item -->
       <hr>
       <div class="row">
         <div class="col-md-7">
           <a href="http://www.cntautocare.com">
-            <img class="img-responsive wrap-image" src="../img/700x300/cntautocare-homepage-700x325.jpg" alt="C&T Auto Care Home Page">
+            <img class="img-responsive wrap-image" src="../img/700x325/cntautocare-homepage-700x325.jpg" alt="C&T Auto Care Home Page">
           </a>
         </div>
         <div class="col-md-5">
@@ -126,11 +172,12 @@
           <a class="btn btn-primary" href="http://www.cntautocare.com" target="_blank">Visit Website</a>
         </div>
       </div>
+      <!-- Portfolio Item -->
       <hr>
       <div class="row">
         <div class="col-md-7">
           <a href="http://www.archrecoveryhouses.com">
-            <img class="img-responsive wrap-image" src="../img/700x300/archrecovery-homepage-700x325.jpg" alt="ARCH Florida Recovery Houses">
+            <img class="img-responsive wrap-image" src="../img/700x325/archrecovery-homepage-700x325.jpg" alt="ARCH Florida Recovery Houses">
           </a>
         </div>
         <div class="col-md-5">
