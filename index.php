@@ -63,19 +63,21 @@
         <div class="col-lg-12">
           <div class="col-lg-6 slide-show">
             <div class="fadein">
-              <img class="img-responsive img-full" src="img/cntauto-homescreen.jpg" 
+              <img class="img-responsive img-full" src="img/900x500/lilly-pad-st-augistine-summary-900x500.jpg" 
                    alt="Modern and affordable website development for local mechanic">
-              <img class="img-responsive img-full" src="img/lilly-pad-home-page-900x500.jpg" 
+              <img class="img-responsive img-full" src="img/900x500/cntauto-homescreen-900x500.jpg" 
+                   alt="Modern and affordable website development for local mechanic">
+              <img class="img-responsive img-full" src="img/900x500/lilly-pad-home-page-900x500.jpg" 
                    alt="Professional website integrated with social media platforms for increased SEO">
-              <img class="img-responsive img-full" src="img/sharpcut-home-page-900x500.jpg" 
+              <img class="img-responsive img-full" src="img/900x500/sharpcut-home-page-900x500.jpg" 
                    alt="Custom web design for local landscaping business">
-              <img class="img-responsive img-full" src="img/cam-health-landing-900x500.jpg" 
+              <img class="img-responsive img-full" src="img/900x500/cam-health-landing-900x500.jpg" 
                    alt="Professional custom web design for business consultants.">
-              <img class="img-responsive img-full" src="img/arch-home-page-900x500.jpg" 
+              <img class="img-responsive img-full" src="img/900x500/arch-home-page-900x500.jpg" 
                    alt="Affordable website design in Palm Beach County Florida">
-              <img class="img-responsive img-full" src="img/arch-meeting-contacts-900x500.jpg" 
-                   alt="Website design for Florida Halfway House">
-              <img class="img-responsive img-full" src="img/customer-login-page-900x500.jpg" 
+              <img class="img-responsive img-full" src="img/900x500/find-best-drug-rehab-info-900x500.jpg" 
+                   alt="Website design for Florida Substance Abuse Resources">
+              <img class="img-responsive img-full" src="img/900x500/customer-login-page-900x500.jpg" 
                    alt="Database and administrative web features to improve customer relations">
             </div>
           </div>
