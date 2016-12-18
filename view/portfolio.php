@@ -23,6 +23,32 @@
       <!-- Portfolio Item -->
       <div class="row">
         <div class="col-md-7">
+          <a href="http://jettpi.ddns.net/view/projects.php" >
+            <img class="img-responsive wrap-image" src="../img/700x325/jett-dev-engineering-projects-700x325.jpg" 
+                 alt="Justin Johnson Computer Engineering Projects">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Jett Dev | pi</h3>
+          <ul>
+            <li>LAMP Stack on personal Rasberry Pi 3 B+</li>
+            <li>Hostname configured to dynamic IP with <a href="http://www.noip.com/">noip.com</a></li>
+            <li>Netgear wireless router port forwarding</li>
+            <li>Showcasing Various Computer Engineering Projects</li>
+            <ul>
+              <li>Pick and Place Machine For Assembling Printed Circuit Boards</li>
+              <li>Bluetooth Connected Smart Pet Feeder and Mobile Phone Application</li>
+              <li>Cat vs Dog Image Classifier implemented with Matlab's Machine Learning Toolbox</li>
+            </ul>
+            <li>User Registration and Login Functionality</li>
+          </ul>
+          <a class="btn btn-primary" href="http://jettpi.ddns.net/view/projects.php" target="_blank">Visit Website</a>
+        </div>
+      </div>
+      <hr>
+      <!-- Portfolio Item -->
+      <div class="row">
+        <div class="col-md-7">
           <a href="https://www.findbestdrugrehabs.com" >
             <img class="img-responsive wrap-image" src="../img/700x325/drug-alcohol-treatment-services-wordpress-700x325.jpg" 
                  alt="Drug and Alcohol Treatment Services">
@@ -41,7 +67,8 @@
           <a class="btn btn-primary" href="https://www.findbestdrugrehabs.com" target="_blank">Visit Website</a>
         </div>
       </div>
-       <!-- Portfolio Item -->
+      <hr>
+      <!-- Portfolio Item -->
       <div class="row">
         <div class="col-md-7">
           <a href="http://www.thelillypadofsaintaugustine.com" >
@@ -61,6 +88,7 @@
           <a class="btn btn-primary" href="http://www.thelillypadofsaintaugustine.com" target="_blank">Visit Website</a>
         </div>
       </div>
+      <hr>
       <!-- Portfolio Item -->
       <div class="row">
         <div class="col-md-7">
@@ -117,18 +145,18 @@
             <li>Providing both User and Administrative services to Meals on Wheels Delivery Providers</li>
             <li>Account management controls allow for new registrations, account updates, and lost password retrieval</li>
             <li>Volunteer Functionality</li>
-              <ul>
-                <li>Select from client database to build and schedule a route</li>
-                <li>Launch Google Maps at delivery time - Google API provides fastest route available</li>
-                <li>Report any client concerns to administrative staff</li>
-              </ul>
+            <ul>
+              <li>Select from client database to build and schedule a route</li>
+              <li>Launch Google Maps at delivery time - Google API provides fastest route available</li>
+              <li>Report any client concerns to administrative staff</li>
+            </ul>
             <li>Administrative Functionality</li>
-              <ul>
-                <li>Add/Remove clients from database</li>
-                <li>View/Edit volunteer's schedules, re-assign clients as needed</li>
-                <li>Review concerns that were reported by volunteers</li>
-                <li>Check that all scheduled volunteers have checked in for today's deliveries</li>
-              </ul>
+            <ul>
+              <li>Add/Remove clients from database</li>
+              <li>View/Edit volunteer's schedules, re-assign clients as needed</li>
+              <li>Review concerns that were reported by volunteers</li>
+              <li>Check that all scheduled volunteers have checked in for today's deliveries</li>
+            </ul>
           </ul>
           <a class="btn btn-primary" href="http://sharpcutlawns.com/mealsonwheels/" target="_blank">Visit Website</a>
         </div>
