@@ -23,26 +23,27 @@
       <!-- Portfolio Item -->
       <div class="row">
         <div class="col-md-7">
-          <a href="http://jettpi.ddns.net/view/projects.php" >
+          <a href="http://www.jett-dev.com/view/projects.php" >
             <img class="img-responsive wrap-image" src="../img/700x325/jett-dev-engineering-projects-700x325.jpg" 
                  alt="Justin Johnson Computer Engineering Projects">
           </a>
         </div>
         <div class="col-md-5">
-          <h3>Jett Dev | pi</h3>
+          <h3>Personal Engineering Project's</h3>
           <ul>
             <li>LAMP Stack on personal Rasberry Pi 3 B+</li>
             <li>Hostname configured to dynamic IP with <a href="http://www.noip.com/">noip.com</a></li>
-            <li>Netgear wireless router port forwarding</li>
-            <li>Showcasing Various Computer Engineering Projects</li>
+            <li>Netgear wireless router port forwarding allows public access</li>
+            <li>Showcasing various computer engineering projects</li>
             <ul>
               <li>Pick and Place Machine For Assembling Printed Circuit Boards</li>
               <li>Bluetooth Connected Smart Pet Feeder and Mobile Phone Application</li>
               <li>Cat vs Dog Image Classifier implemented with Matlab's Machine Learning Toolbox</li>
+              <li>Multiple Android Applications</li>
             </ul>
             <li>User Registration and Login Functionality</li>
           </ul>
-          <a class="btn btn-primary" href="http://jettpi.ddns.net/view/projects.php" target="_blank">Visit Website</a>
+          <a class="btn btn-primary" href="http://www.jett-dev.com/view/projects.php" target="_blank">View Projects</a>
         </div>
       </div>
       <hr>
@@ -114,7 +115,7 @@
       <hr>
       <div class="row">
         <div class="col-md-7">
-          <a href="http://www.camhealthpro.com" >
+          <a href="#">
             <img class="img-responsive wrap-image" src="../img/700x325/cam-health-700x325.jpg" 
                  alt="CAM Health custom website design by KB Software Solutions Palm Beach County">
           </a>
@@ -122,12 +123,11 @@
         <div class="col-md-5">
           <h3>CAM Health, Palm Beach</h3>
           <ul>
-            <li>Visit <a href="http://www.camhealthpro.com">CAM Health</a> to experience custom curtain effect display</li>
+            <li>Custom curtain effect display that opens views as you scroll the page</li>
             <li>Professional high resolution photos and modern layout to capture visitors' attention</li>
             <li>Custom Social Media Marketing that encourages users to share their experience and help increase SEO scores</li>
             <li>Interactive Google Map that allows customers to browse the local area and contact CAM Health</li>
           </ul>
-          <a class="btn btn-primary" href="http://www.camhealthpro.com" target="_blank">Visit Website</a>
         </div>
       </div>
       <!-- Portfolio Item -->
@@ -204,7 +204,7 @@
       <hr>
       <div class="row">
         <div class="col-md-7">
-          <a href="http://www.archrecoveryhouses.com">
+          <a href="#">
             <img class="img-responsive wrap-image" src="../img/700x325/archrecovery-homepage-700x325.jpg" alt="ARCH Florida Recovery Houses">
           </a>
         </div>
@@ -218,7 +218,6 @@
             <li>Social media marketing links website to Facebook, Twitter, and Google</li>
             <li>Additional pages educate customers, encourage website interaction, and increase SEO scores with quality content</li>
           </ul>
-          <a class="btn btn-primary" href="http://www.archrecoveryhouses.com" target="_blank">Visit Website</a>
         </div>
       </div>
       <hr>
