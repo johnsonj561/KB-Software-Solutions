@@ -26,12 +26,11 @@
                 <hr class="paragraph-divier">
                 <div class="col-lg-12">
                   <p><em>If requesting pricing information or an estimate to design a new website, please 
-                    provide a brief description of your business and your goals in launching a web page. If you already have
-                    an existing website describing your business, please include that information. KB Software Solutions
-                    will send you several options to match your requirements as well as any suggestions.</em></p>
+                    provide a brief description of your business and your goals in creating a website. If you already have
+                    an existing website describing your business, please include that information.</em></p>
                 </div>
-                <div class="col-lg-5"></div>
-                <div class="col-lg-9">
+                <div class="col-lg-2"></div>
+                <div class="col-lg-8">
                   <form role="form" action="../landing/message-landing.php" method = "post"
                         onsubmit = "return onContactSubmit()">
                     <div class="row">
@@ -63,6 +62,9 @@
                     </div>
                   </form>
                 </div>
+                <div class="col-lg-2"></div>
+
+<!--
                 <div class="col-lg-3">
                   <h4 class="text-center">Contact Information</h4>
                   <div class="contact-info">
@@ -79,27 +81,11 @@
                     </p>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-          <hr class="paragraph-divider">
-          <div class="row">
-            <div class="box">
-              <div class="col-lg-12">
-                <div class="col-md-6">
-                  <img class="img-responsive wrap-image pull-right" src="../img/justin-johnson-photo.jpg"
-                       alt="Owner and primary operator Justin Johnson"/>
-                </div>
-                <div class="col-md-6">
-                  <img class="img-responsive wrap-image pull-left" src="../img/palm-beach-county-map.jpg"
-                       alt="KB Software Solutions operates out of Palm Beach County"/>
-                </div>
-                <div class="clearfix"></div>
+-->
               </div>
             </div>
           </div>
         </div>
-        <div class="row"><a href="contact.php">Back to Top</a><br></div>
       </div>
     </div>
     <script src = "../js/validate.js"></script>
